@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> Have a nice day :)</h1>
-  
+   <h1> Have a nice day :)</h1>
+   <h2> Please visit again <h2> 
 </form>
